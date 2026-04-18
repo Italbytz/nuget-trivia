@@ -21,7 +21,7 @@
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <PackageTags>italbytz;trivia;quiz;questions</PackageTags>
-    <Version>1.0.0-preview.1</Version>
+    <Version>1.0.0</Version>
     <PackRelease>true</PackRelease>
   </PropertyGroup>
 
