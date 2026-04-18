@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Italbytz.Trivia.Abstractions\Italbytz.Trivia.Abstractions.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <PackageId>Italbytz.Trivia.OpenTriviaDb</PackageId>
+    <Description>Open Trivia DB client and mapping helpers for trivia-style question catalogs.</Description>
+  </PropertyGroup>
+
+</Project>

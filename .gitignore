@@ -1,0 +1,4 @@
+obj/
+bin/
+artifacts/packages/
+*.original

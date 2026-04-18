@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net8.0</TargetFrameworks>
+    <PackageId>Italbytz.Trivia.Abstractions</PackageId>
+    <Description>Question-model contracts for trivia and quiz scenarios.</Description>
+  </PropertyGroup>
+
+</Project>
